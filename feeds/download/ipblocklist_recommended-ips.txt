@@ -8,5 +8,4 @@
 #
 # DstIP
 192.9.135.73
-77.73.39.175
-# END 2 entries
+# END 1 entries
